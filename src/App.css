@@ -1,0 +1,10 @@
+h1, p {
+    margin: 0;
+    padding: 0;
+}
+
+.phonebook {
+    display: flex;
+    gap: 20px;
+    flex-direction: column;
+}
